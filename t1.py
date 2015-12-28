@@ -2,4 +2,4 @@ def singchar(i):
   i== int(i)
   return i
 
-print(singchar('9'))
+print(singchar('5'))
